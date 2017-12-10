@@ -120,3 +120,7 @@ if __name__ == "__main__":
             coord.request_stop()
             coord.join(threads)
             sess.close()
+
+            
+            
+            #wztext2#
